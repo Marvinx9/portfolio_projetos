@@ -96,7 +96,7 @@ body {
 }
 /* Type */
 body, input, select, textarea {
-  color: #302f2f;
+  color: #b9b0b0;
   font-family: "Open Sans", sans-serif;
   font-size: 13pt;
   font-weight: 400;
@@ -117,7 +117,7 @@ a {
   -ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   border-bottom: dotted 1px;
-  color: #f56a6a;
+  color: #ff000000;
   text-decoration: none; }
   a:hover {
     border-bottom-color: #f56a6a;
@@ -136,7 +136,7 @@ p {
   margin: 0 0 2em 0; }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #000000;
+  color: #ce6969;
   font-family: "Roboto Slab", serif;
   font-weight: 700;
   line-height: 1.5;
