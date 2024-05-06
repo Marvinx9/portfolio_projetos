@@ -78,7 +78,7 @@ html {
   box-sizing: inherit; }
 
 body {
-  background: #C4BDC3; }
+  background: #0f0101ee; }
   body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-resizing *, body.is-resizing *:before, body.is-resizing *:after {
     -moz-animation: none !important;
     -webkit-animation: none !important;
@@ -2146,7 +2146,7 @@ button,
     flex-shrink: 0;
     display: block;
     margin: 0 0 2em 4em;
-    width: 50%; }
+    width: 30%; }
     #banner .image img {
       height: 80%;
       -moz-object-fit: cover;
